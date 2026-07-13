@@ -24,6 +24,8 @@ Altair slc running pspp the spss clone in linux within windows using ms wsl
         The most recent macro is at
         https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
 
+    Download and install pspp statistical package
+    https://www.gnu.org/software/pspp/get.html
 
     Related Repos
     -----------------------------------------------------------------------------------------------------------------------------
