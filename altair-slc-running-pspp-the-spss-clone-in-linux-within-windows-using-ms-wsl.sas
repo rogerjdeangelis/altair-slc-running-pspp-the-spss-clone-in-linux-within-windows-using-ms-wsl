@@ -21,7 +21,9 @@ CONTENTS
   6 drop down pspp macro
     The most recent macro is at
     https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
-
+    
+Download and install pspp statistical package
+https://www.gnu.org/software/pspp/get.html
 
 Related Repos
 -----------------------------------------------------------------------------------------------------------------------------
